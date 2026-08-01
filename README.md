@@ -1,0 +1,2 @@
+# Deep_Learning_Pretrained_Model_Comparision_with_Chest_Xray_Pneumonia
+Evaluate pretrained model using Chest Xray Pneumonia Image Dataset
